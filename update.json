@@ -1,0 +1,8 @@
+{
+  "versionCode": 5,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/lyz10-26/dailyone-android/releases/download/v1.4.0/DailyOne-1.4.0.apk",
+  "releaseNotes": "优化勋章展示：统一图标、日期标签、默认折叠、展开全部和大图详情。\n新增检查更新：最新版提示、新版下载入口、网络失败提示。",
+  "sha256": "e0281f80ac40e2166acacb1b86dea804ca2d598dada99eb507259a43ebceea09",
+  "sizeBytes": 74834
+}

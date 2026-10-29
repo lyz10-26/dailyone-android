@@ -1,0 +1,12 @@
+*.jks
+*.keystore
+*.apk
+*.idsig
+*.zip
+.gradle/
+**/build/
+local.properties
+node_modules/
+private/
+.env
+*.log

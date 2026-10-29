@@ -1,0 +1,1 @@
+{"name":"dailyone-android-checks","private":true,"scripts":{"test":"node tests/flow.cjs && node tests/dom.cjs"},"devDependencies":{"jsdom":"26.1.0"}}
